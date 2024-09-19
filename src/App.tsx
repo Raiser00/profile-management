@@ -3,8 +3,17 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+const user = 
+  {
+    name: 'Damien Manitob1 Khashan',
+    imageUrl: 'C:/Users/Dell/Desktop/backup dell/Documents/96613.jpg',
+    imageSize: 90,
+  };
+
 function App() {
   const [count, setCount] = useState(0)
+
+  
 
   return (
     <>
